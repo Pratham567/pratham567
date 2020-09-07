@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on the analysis the sentiments of the public on their reactions to streaming services
+🌱 I’m currently learning CSec, join me in my journey
+💬 Ask me about Clouds
+📫 How to reach me: you already didi! :p
+⚡ Fun fact: I'm a student
+
 <!--
 **Pratham567/pratham567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
