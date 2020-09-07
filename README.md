@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the analysis the sentiments of the public on their reactions to streaming services \n
-🌱 I’m currently learning CSec, join me in my journey \n
-💬 Ask me about Clouds \n
-📫 How to reach me: you already didi! :p \n
-⚡ Fun fact: I'm a student \n
+🔭 I’m currently working on the analysis the sentiments of the public on their reactions to streaming services <br/>
+🌱 I’m currently learning CSec, join me in my journey <br/>
+💬 Ask me about Clouds <br/>
+📫 How to reach me: you already did! :p <br/>
+⚡ Fun fact: I'm a student <br/>
 
 <!--
 **Pratham567/pratham567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
